@@ -54,5 +54,5 @@ using System.Windows;
 // 方法是按如下所示使用“*”:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("16.05.01.0")]
-[assembly: AssemblyFileVersion("16.05.01.0")]
+[assembly: AssemblyVersion("16.05.01.1")]
+[assembly: AssemblyFileVersion("16.05.01.1")]
